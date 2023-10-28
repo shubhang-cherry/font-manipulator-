@@ -1,0 +1,23 @@
+.heading {
+    top: 0;
+    width: 100%;
+}
+.copy_right_footer {
+    position: fixed;
+    color: white;
+    bottom: 0;
+    text-align: center;
+    background-color: grey;
+    width: 100%;
+    line-height: 3;
+}
+
+.note {
+    color: black;
+}
+
+canvas {
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+}
